@@ -13,7 +13,7 @@ USE_JCTVC=y
 # Enable the cross compilation for Windows
 #CONFIG_WIN32=y
 # Enable for compilation on MacOS X
-#CONFIG_APPLE=y
+CONFIG_APPLE=y
 # Installation prefix
 prefix=/usr/local
 
